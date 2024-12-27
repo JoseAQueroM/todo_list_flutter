@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is /home/jose/AndroidStudioProjects/todolist/todo_list/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.1.0
+# The proguard configuration file for the following section is /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.1.0
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -117,7 +117,7 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from /home/jose/AndroidStudioProjects/todolist/todo_list/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.1.0
+# End of content from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.1.0
 # The proguard configuration file for the following section is /home/jose/snap/flutter/common/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
 # Build the ephemeral app in a module project.
 # Prevents: Warning: library class <plugin-package> depends on program class io.flutter.plugin.**
@@ -135,7 +135,7 @@
 -keep,allowshrinking,allowobfuscation class <1>
 
 # End of content from /home/jose/snap/flutter/common/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro
-# The proguard configuration file for the following section is /home/jose/AndroidStudioProjects/todolist/todo_list/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# The proguard configuration file for the following section is /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 -keep class android.app.Application { <init>(); }
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
@@ -190,7 +190,7 @@
 -keep class androidx.recyclerview.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
 
 
-# End of content from /home/jose/AndroidStudioProjects/todolist/todo_list/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
+# End of content from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app/intermediates/aapt_proguard_file/release/aapt_rules.txt
 # The proguard configuration file for the following section is /home/jose/.gradle/caches/transforms-3/1692bf3a139d7c8edeec9814bc8c0153/transformed/jetified-datastore-preferences-1.0.0/proguard.txt
 -keepclassmembers class * extends androidx.datastore.preferences.protobuf.GeneratedMessageLite {
     <fields>;

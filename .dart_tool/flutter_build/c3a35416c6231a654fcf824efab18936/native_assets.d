@@ -1,0 +1,1 @@
+ /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/.dart_tool/flutter_build/c3a35416c6231a654fcf824efab18936/native_assets.yaml: 

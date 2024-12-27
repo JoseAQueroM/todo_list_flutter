@@ -537,24 +537,7 @@
             "outputFile": "com.example.todo_list.app-merged_res-41:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/home/jose/.gradle/caches/transforms-3/6ddfe7bc5a026c54878de2bc1391ef46/transformed/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "405,475,559,643,739,841,943,1037",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "470,554,638,734,836,938,1032,1121"
-                    }
-                },
-                {
-                    "source": "/home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -570,6 +553,23 @@
                         "endLines": "5,8",
                         "endColumns": "12,12",
                         "endOffsets": "231,400"
+                    }
+                },
+                {
+                    "source": "/home/jose/.gradle/caches/transforms-3/6ddfe7bc5a026c54878de2bc1391ef46/transformed/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "405,475,559,643,739,841,943,1037",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "470,554,638,734,836,938,1032,1121"
                     }
                 }
             ]
@@ -3006,25 +3006,6 @@
             "outputFile": "com.example.todo_list.app-merged_res-41:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "1488,1492",
-                        "startColumns": "4,4",
-                        "startOffsets": "93582,93763",
-                        "endLines": "1491,1494",
-                        "endColumns": "12,12",
-                        "endOffsets": "93758,93927"
-                    }
-                },
-                {
                     "source": "/home/jose/.gradle/caches/transforms-3/9005ab99f1717e9b0608d9f5ab54ff23/transformed/recyclerview-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "30,31,32,33,34,35,36,2",
@@ -3041,6 +3022,25 @@
                         "endLines": "218,219,220,228,229,230,305,3410",
                         "endColumns": "58,47,55,74,75,71,65,24",
                         "endOffsets": "12959,13007,13063,13749,13825,13897,18393,181281"
+                    }
+                },
+                {
+                    "source": "/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "1488,1492",
+                        "startColumns": "4,4",
+                        "startOffsets": "93582,93763",
+                        "endLines": "1491,1494",
+                        "endColumns": "12,12",
+                        "endOffsets": "93758,93927"
                     }
                 },
                 {

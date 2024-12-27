@@ -1,7 +1,7 @@
 -- Merging decision tree log ---
 application
-INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:5:5-36:19
-INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:5:5-36:19
+INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:5:5-36:19
+INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:5:5-36:19
 MERGED from [androidx.window:window:1.2.0] /home/jose/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] /home/jose/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.core:core:1.13.1] /home/jose/.gradle/caches/transforms-3/889ae3adf7a24645889ee22f4dad2cac/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
@@ -15,22 +15,22 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/jose/.gradle/caches/t
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/jose/.gradle/caches/transforms-3/d21e37b6169caa7895fc002c1192b0f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/jose/.gradle/caches/transforms-3/d21e37b6169caa7895fc002c1192b0f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /home/jose/.gradle/caches/transforms-3/889ae3adf7a24645889ee22f4dad2cac/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:6:9-34
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:6:9-34
 	android:icon
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:8:9-43
 	android:name
-		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:7:9-42
+		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:7:9-42
 manifest
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:1:1-48:12
-MERGED from [:shared_preferences_android] /home/jose/AndroidStudioProjects/todolist/todo_list/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:shared_preferences_android] /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/jose/.gradle/caches/transforms-3/1692bf3a139d7c8edeec9814bc8c0153/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.datastore:datastore:1.0.0] /home/jose/.gradle/caches/transforms-3/1bf5fbd23c341f3ee1031fd67c06ffae/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.preference:preference:1.2.1] /home/jose/.gradle/caches/transforms-3/047aa7ddff6241681155a5178fa0e58d/transformed/preference-1.2.1/AndroidManifest.xml:17:1-24:12
@@ -83,83 +83,83 @@ MERGED from [androidx.print:print:1.0.0] /home/jose/.gradle/caches/transforms-3/
 MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/jose/.gradle/caches/transforms-3/c4537ab9015740d05f09a422063523a5/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/jose/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:2:3-65
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:2:3-65
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:2:20-62
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:2:20-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:3:3-79
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:3:3-79
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:3:20-76
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:3:20-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:4:3-78
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:4:3-78
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:4:20-75
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:4:20-75
 queries
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:42:5-47:15
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:42:5-47:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:43:9-46:18
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:43:9-46:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:44:13-72
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:44:13-72
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:44:21-70
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:44:21-70
 data
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:45:13-50
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:45:13-50
 	android:mimeType
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:45:19-48
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:45:19-48
 activity#com.example.todo_list.MainActivity
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:9:9-30:20
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:9:9-30:20
 	android:launchMode
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:12:13-43
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:12:13-43
 	android:hardwareAccelerated
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:16:13-47
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:16:13-47
 	android:windowSoftInputMode
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:17:13-55
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:17:13-55
 	android:exported
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:11:13-36
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:11:13-36
 	android:configChanges
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:15:13-163
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:15:13-163
 	android:theme
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:14:13-47
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:14:13-47
 	android:taskAffinity
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:13:13-36
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:13:13-36
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:10:13-41
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:10:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:22:13-25:17
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:22:13-25:17
 	android:resource
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:24:15-52
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:24:15-52
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:23:15-70
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:23:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:26:13-29:29
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:26:13-29:29
 action#android.intent.action.MAIN
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:27:17-68
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:27:17-68
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:28:17-76
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:28:17-76
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:28:27-74
 meta-data#flutterEmbedding
-ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:33:9-35:33
+ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:33:9-35:33
 	android:value
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:35:13-30
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:35:13-30
 	android:name
-		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml:34:13-44
+		ADDED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml:34:13-44
 uses-sdk
-INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
-MERGED from [:shared_preferences_android] /home/jose/AndroidStudioProjects/todolist/todo_list/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] /home/jose/AndroidStudioProjects/todolist/todo_list/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/jose/.gradle/caches/transforms-3/1692bf3a139d7c8edeec9814bc8c0153/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.datastore:datastore-preferences:1.0.0] /home/jose/.gradle/caches/transforms-3/1692bf3a139d7c8edeec9814bc8c0153/transformed/jetified-datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.datastore:datastore:1.0.0] /home/jose/.gradle/caches/transforms-3/1bf5fbd23c341f3ee1031fd67c06ffae/transformed/jetified-datastore-1.0.0/AndroidManifest.xml:20:5-22:41
@@ -263,9 +263,9 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/jose/.grad
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/jose/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/jose/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 	android:targetSdkVersion
-		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app/src/main/AndroidManifest.xml
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /home/jose/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required

@@ -1,4 +1,4 @@
-#Thu Dec 26 16:55:18 VET 2024
-base.0=/home/jose/AndroidStudioProjects/todolist/todo_list/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+#Fri Dec 27 08:33:09 VET 2024
+base.0=/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/home/jose/AndroidStudioProjects/todolist/todo_list/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/home/jose/AndroidStudioProjects/todolist/todo_list/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/home/jose/AndroidStudioProjects/todolist/todo_list/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/home/jose/AndroidStudioProjects/todolist/todo_list/android@@:shared_preferences_android::release"
-      jars="/home/jose/AndroidStudioProjects/todolist/todo_list/build/shared_preferences_android/.transforms/51c49b05902dbd4a533fc8ae99d1507b/transformed/out/jars/classes.jar:/home/jose/AndroidStudioProjects/todolist/todo_list/build/shared_preferences_android/.transforms/51c49b05902dbd4a533fc8ae99d1507b/transformed/out/jars/libs/R.jar"
+      name="/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android@@:shared_preferences_android::release"
+      jars="/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/shared_preferences_android/.transforms/f3b3b99632d9b9028f0f2b3642c48151/transformed/out/jars/classes.jar:/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/shared_preferences_android/.transforms/f3b3b99632d9b9028f0f2b3642c48151/transformed/out/jars/libs/R.jar"
       resolved="io.flutter.plugins.sharedpreferences:shared_preferences_android:unspecified"
-      folder="/home/jose/AndroidStudioProjects/todolist/todo_list/build/shared_preferences_android/.transforms/51c49b05902dbd4a533fc8ae99d1507b/transformed/out"
+      folder="/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/shared_preferences_android/.transforms/f3b3b99632d9b9028f0f2b3642c48151/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/home/jose/AndroidStudioProjects/todolist/todo_list/android/app"
+    dir="/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     agpVersion="8.1.0"
-    buildFolder="/home/jose/AndroidStudioProjects/todolist/todo_list/build/app"
+    buildFolder="/home/jose/AndroidStudioProjects/todolist/todo_list/todo_list_flutter/build/app"
     bootClassPath="/home/jose/Android/Sdk/platforms/android-35/android.jar:/home/jose/Android/Sdk/build-tools/33.0.1/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-35">
